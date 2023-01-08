@@ -1,0 +1,19 @@
+id: A3E43E8C5
+title: Brief Gesar Windhorse Invocation
+type: translation
+pechas:
+- I79F3F5FB
+- I8F6B349E
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:07:20.999350
+  last_modified_at: 2023-01-04 13:07:20.999358
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I79F3F5FB/7BDC: '9943'
+  I8F6B349E/77A3: '9943'
